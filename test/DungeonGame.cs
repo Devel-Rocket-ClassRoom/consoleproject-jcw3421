@@ -29,6 +29,8 @@ namespace test
 
         public void PlayGame(int stageCount)
         {
+            var re = SaveLoadJson.ConvertMap(gameMap.map);
+            SaveLoadJson.SaveData(re);
 
             for (int i = 0; i < stageCount; i++)
             {

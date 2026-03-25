@@ -12,7 +12,7 @@ namespace test
         public int Hp  { get; set; } 
         public int Damage { get; set; }
         public int Defense { get; set; }
-        public Player(string name, int damage, int hp = 5000, int defense = 1000)
+        public Player(string name = "", int damage =0 , int hp = 5000, int defense = 1000)
         {
             big = name;
             Damage = damage;

@@ -28,6 +28,30 @@ namespace test
 
             return result;
         }
+        static public void SaveData(char[][] map)
+        {
+            string folderPath = "./GameData";
+            string filePath = Path.Combine(folderPath, "data.json");
+
+            if (!Directory.Exists(folderPath))
+                Directory.CreateDirectory(folderPath);
+
+            //GameData gdata = new GameData("Dragon", 10);
+
+            string result = JsonSerializer.Serialize(map); //new JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllText(filePath, result);
+
+            //Console.WriteLine("Json으로 변환된 문자열: \n" + result);
+            //Console.ReadLine();
+
+            //string s = File.ReadAllText(filePath);
+            //GameData mm = JsonSerializer.Deserialize<GameData>(s);
+
+            //if (mm != null)
+            //{
+            //    Console.WriteLine("읽기 성공!: " + mm);
+            //}
+        }
     }
     internal class Map
     {
@@ -64,30 +88,7 @@ namespace test
             cols = map.GetLength(1);
         }
      
-        public void SaveData()
-        {
-            string folderPath = "./GameData";
-            string filePath = Path.Combine(folderPath, "data.json");
-
-            if (!Directory.Exists(folderPath))
-                Directory.CreateDirectory(folderPath);
-
-            GameData gdata = new GameData("Dragon", 10);
-
-            string result = JsonSerializer.Serialize<GameData>(gdata, new JsonSerializerOptions { WriteIndented = true });
-            File.WriteAllText(filePath, result);
-
-            Console.WriteLine("Json으로 변환된 문자열: \n" + result);
-            Console.ReadLine();
-
-            string s = File.ReadAllText(filePath);
-            GameData mm = JsonSerializer.Deserialize<GameData>(s);
-
-            if (mm != null)
-            {
-                Console.WriteLine("읽기 성공!: " + mm);
-            }
-        }
+       
         public (int, int) FindPlayer()
         {
             for (int r = 0; r < rows; r++)
