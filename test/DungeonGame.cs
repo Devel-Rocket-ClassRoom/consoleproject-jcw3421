@@ -8,29 +8,18 @@ namespace test
 {
     internal class DungeonGame
     {
-        int a = 10;
+        
         Map gameMap = new Map();
         Player player = new Player();
-
-        //int[] aaa = new int[5];
-        //int[] aaa = new int[5];
-        //int[] aaa = new int[5];    
-        //char[] ccc = new char[5];
-        //GameData[] ddd = new GameData[5];
-
-        //List<GameData> stages = new List<GameData>();
-        //GameData data = new GameData("Intro",1);
-
+       
         public DungeonGame(string name, int count)
         {
 
 
         }
-
         public void PlayGame(int stageCount)
         {
-            var re = SaveLoadJson.ConvertMap(gameMap.map);
-            SaveLoadJson.SaveData(re);
+         
 
             for (int i = 0; i < stageCount; i++)
             {
@@ -44,11 +33,9 @@ namespace test
                 bool playing = true;
                 while (playing)
                 {
-
-                    Console.Write("이동 명령 (w, a, s, d): ");
-                    Console.Write("P는 플레이어 M은 몬스터");
-                 
+                    Console.WriteLine($"[상태] {player.PlayerName} | HP: {player.Hp} | Gold: {player.Gold}");
                     string cmd = Console.ReadLine();
+                    Console.Clear();
 
                     // 이동 명령 (L, R, U, D): 
 
@@ -76,8 +63,6 @@ namespace test
                             dirR = 1;
                             break;
                     }
-
-
                     //if (gameMap.map[R + dirR, C + dirC] == '#')
                     if (gameMap.IsWall(player.row + dirR, player.col + dirC))
                     {
@@ -93,10 +78,7 @@ namespace test
                     else
                     {
                         gameMap.SetPlayer(dirR, dirC, player);
-                        //gameMap.map[player.row, player.col] = ' ';
-                        //player.row += dirR;
-                        //player.col += dirC;
-                        //gameMap.map[player.row, player.col] = 'P';
+                       
                     }
 
                     gameMap.PrintMap();

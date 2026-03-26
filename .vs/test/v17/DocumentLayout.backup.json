@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|solutionrelative:test\\dungeongame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|c:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|c:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|solutionrelative:test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|c:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|solutionrelative:test\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|c:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|solutionrelative:test\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|c:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|c:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|solutionrelative:test\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|c:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|c:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAA660B-EEA9-4F59-84E5-F02ADDD1565F}|test\\test.csproj|solutionrelative:test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,75 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DungeonGame.cs",
-              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\DungeonGame.cs",
-              "RelativeDocumentMoniker": "test\\DungeonGame.cs",
-              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\DungeonGame.cs",
-              "RelativeToolTip": "test\\DungeonGame.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAMwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T08:11:57.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Map.cs",
-              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\Map.cs",
-              "RelativeDocumentMoniker": "test\\Map.cs",
-              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\Map.cs",
-              "RelativeToolTip": "test\\Map.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T08:12:10.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\Program.cs",
               "RelativeDocumentMoniker": "test\\Program.cs",
               "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\Program.cs",
               "RelativeToolTip": "test\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T08:11:02.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\Player.cs",
               "RelativeDocumentMoniker": "test\\Player.cs",
               "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\Player.cs",
               "RelativeToolTip": "test\\Player.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T08:11:00.602Z",
+              "WhenOpened": "2026-03-26T07:55:39.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "test.csproj",
-              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\test.csproj",
-              "RelativeDocumentMoniker": "test\\test.csproj",
-              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\test.csproj",
-              "RelativeToolTip": "test\\test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-25T08:10:55.013Z"
+              "DocumentIndex": 0,
+              "Title": "DungeonGame.cs",
+              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\DungeonGame.cs",
+              "RelativeDocumentMoniker": "test\\DungeonGame.cs",
+              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\DungeonGame.cs*",
+              "RelativeToolTip": "test\\DungeonGame.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T08:11:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\Monster.cs",
+              "RelativeDocumentMoniker": "test\\Monster.cs",
+              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\Monster.cs",
+              "RelativeToolTip": "test\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:55:44.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\Map.cs",
+              "RelativeDocumentMoniker": "test\\Map.cs",
+              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\Map.cs",
+              "RelativeToolTip": "test\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T08:12:10.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\Character.cs",
+              "RelativeDocumentMoniker": "test\\Character.cs",
+              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uAE43\uD5C8\uBE0C\\\uB358\uC804\\consoleproject-jcw3421\\test\\Character.cs",
+              "RelativeToolTip": "test\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:56:10.818Z",
+              "EditorCaption": ""
             }
           ]
         }

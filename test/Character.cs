@@ -8,7 +8,13 @@ namespace test
 {
     internal class Character
     {
+    
         public int row;
         public int col;
+
+        public Character()
+        {
+            
+        }
     }
 }

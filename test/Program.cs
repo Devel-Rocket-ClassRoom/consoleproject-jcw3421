@@ -15,7 +15,7 @@ namespace test
         //pull-request-test
     }
     internal class Program
-    {
+    {  
         static void Main(string[] args)
         {
             DungeonGame game = new DungeonGame("던전", 1);
