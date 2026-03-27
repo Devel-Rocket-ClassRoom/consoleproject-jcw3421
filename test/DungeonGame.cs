@@ -23,7 +23,7 @@ namespace test
 
             for (int i = 0; i < stageCount; i++)
             {
-                Console.WriteLine();
+                //Console.WriteLine();
                 gameMap.PrintMap();
 
                 var P = gameMap.FindPlayer();
@@ -33,22 +33,23 @@ namespace test
                 bool playing = true;
                 while (playing)
                 {
-                    Console.WriteLine($"[상태] {player.PlayerName} | HP: {player.Hp} | Gold: {player.Gold}");
+                    Console.WriteLine($"[상태] {player.PlayerName} | HP: {player.Hp} | Gold: {player.Gold} | Damage {player.Damage} | Exp {player.Exp}");
+                    Console.WriteLine("이동명령 w,a,s,d");
                     string cmd = Console.ReadLine();
                     Console.Clear();
 
-                    // 이동 명령 (L, R, U, D): 
+                  
 
 
                     int dirR = 0;
                     int dirC = 0;
 
-                    //map[R + dirR, C + dirC] == '#'
 
                     switch (cmd)
                     {
                         case "a":
                             dirC = -1;
+                            
                             break;
 
                         case "d":
@@ -63,7 +64,7 @@ namespace test
                             dirR = 1;
                             break;
                     }
-                    //if (gameMap.map[R + dirR, C + dirC] == '#')
+                 
                     if (gameMap.IsWall(player.row + dirR, player.col + dirC))
                     {
                         Console.WriteLine("이동 못함");

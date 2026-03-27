@@ -12,13 +12,13 @@ namespace test
 
     public class branche_test_class
     {
-        //pull-request-test
+    
     }
     internal class Program
     {  
         static void Main(string[] args)
         {
-            DungeonGame game = new DungeonGame("던전", 1);
+            DungeonGame game = new DungeonGame("던전", 5);
 
             game.PlayGame(5);
 
@@ -30,7 +30,7 @@ namespace test
     {
         [JsonInclude] public string stageName;
         [JsonInclude] public int dungeonCount;
-        [JsonInclude] public int damage;
+        
 
         [JsonIgnore] public int count { get; set; }
 

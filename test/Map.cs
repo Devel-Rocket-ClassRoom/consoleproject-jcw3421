@@ -36,21 +36,12 @@ namespace test
             if (!Directory.Exists(folderPath))
                 Directory.CreateDirectory(folderPath);
 
-            //GameData gdata = new GameData("Dragon", 10);
+           
 
             string result = JsonSerializer.Serialize(map); //new JsonSerializerOptions { WriteIndented = true });
             File.WriteAllText(filePath, result);
 
-            //Console.WriteLine("Json으로 변환된 문자열: \n" + result);
-            //Console.ReadLine();
-
-            //string s = File.ReadAllText(filePath);
-            //GameData mm = JsonSerializer.Deserialize<GameData>(s);
-
-            //if (mm != null)
-            //{
-            //    Console.WriteLine("읽기 성공!: " + mm);
-            //}
+            
         }
     }
     internal class Map
